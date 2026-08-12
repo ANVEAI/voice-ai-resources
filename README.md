@@ -124,6 +124,7 @@ End-to-end conversational voice AI systems.
 | **Retell AI** | Conversational voice AI | Customer service | [retellai.com](https://retellai.com) |
 | **Pipecat** | Framework for voice bots | Build voice assistants | [pipecat.ai](https://pipecat.ai) |
 | **Daily.co** | Real-time video/voice | WebRTC infrastructure | [daily.co](https://daily.co) |
+| **Workforce Wave** | AI voice receptionist for SMBs | After-hours call answering, appointment booking, lead capture | [workforcewave.com](https://www.workforcewave.com) |
 
 ---
 
