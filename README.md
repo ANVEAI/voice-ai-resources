@@ -152,6 +152,7 @@ Low-latency voice streaming and WebRTC.
 | **Twilio** | Voice calls and SIP | $0.0085/min | [twilio.com](https://twilio.com) |
 | **100ms** | Live audio/video SDK | $0.004/min | [100ms.live](https://100ms.live) |
 | **LiveKit** | Open source WebRTC | $0.0018/min | [livekit.io](https://livekit.io) |
+| [AI Group Call](https://aigroupcall.app) | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. | iOS + Android app | https://aigroupcall.app |
 
 ### Open Source
 | Project | Description | Stars | Link |
